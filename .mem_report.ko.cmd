@@ -1,0 +1,1 @@
+cmd_/home/jason/Desktop/mem_report_module/mem_report.ko := ld -r -m elf_x86_64  --build-id=sha1  -T ./scripts/module-common.lds -o /home/jason/Desktop/mem_report_module/mem_report.ko /home/jason/Desktop/mem_report_module/mem_report.o /home/jason/Desktop/mem_report_module/mem_report.mod.o;  true
